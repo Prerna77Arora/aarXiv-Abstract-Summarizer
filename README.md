@@ -97,5 +97,5 @@ natural-language-processing research-paper-summary arxiv-api transformers huggin
 
   arXiv API
   
-# 🌟 We hope you like it!
+# 🌟 I hope you like it!
 If this tool helped you, consider giving the repo a ⭐ and sharing it with others in your research community!
