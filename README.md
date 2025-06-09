@@ -3,7 +3,7 @@ Welcome to our AI-powered research paper summarization tool!
 Get concise and informative summaries of research papers with just a few clicks using this notebook. Designed to save you time and effort, it accurately summarizes content-heavy research abstracts and highlights key findings.
 
 Say goodbye to lengthy reading—and hello to efficient research!
-# 🚀 Getting Started
+##🚀 Getting Started
 Getting started is simple. This notebook automatically:
 
 Fetches the latest AI-related research papers from arXiv.
@@ -15,6 +15,7 @@ Returns clear and short summaries using the facebook/bart-large-cnn model from H
 This tool is perfect for students, researchers, or professionals looking to quickly grasp the essence of recent publications.
 
 #✨ Features
+
 ✅ Summarizes latest abstracts from arXiv.org
 ✅ Uses HuggingFace Transformers for summarization
 ✅ Retrieves papers by topic (default: AI/ML)
@@ -22,7 +23,9 @@ This tool is perfect for students, researchers, or professionals looking to quic
 ✅ Outputs are displayed in tabular format with publication dates and categories
 
 #📂 Clone the Repository
+
 git clone https://github.com/your-username/ResearchPaperSummarizer.git
+
 cd ResearchPaperSummarizer
 
 Note: This project runs best in a Jupyter or Google Colab environment.
@@ -31,10 +34,12 @@ Note: This project runs best in a Jupyter or Google Colab environment.
 #Install the required Python packages:
 
 pip install transformers
+
 pip install arxiv
+
 pip install pandas
 
-#📓 How to Use
+##📓 How to Use
 
 Option 1: Run on Google Colab
 
