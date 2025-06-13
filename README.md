@@ -1,6 +1,6 @@
 # aarXiv-Abstract-Summarizer
 Welcome to our AI-powered research paper summarization tool!
-Get concise and informative summaries of research papers with just a few clicks using this notebook. Designed to save you time and effort, it accurately summarizes content-heavy research abstracts and highlights key findings.
+Get concise and informative summaries of research papers with just a few clicks using this notebook. Designed to save you time and efforts, it accurately summarizes content-heavy research abstracts and highlights key findings.
 
 Say goodbye to lengthy reading—and hello to efficient research!
 # 🚀 **Getting Started**
